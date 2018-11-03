@@ -7903,6 +7903,8 @@ a.bg-inverse:focus, a.bg-inverse:hover {
   }
   .mr-sm-2 {
     margin-right: 0.5rem !important;
+    border-style: solid;
+    border-color: #000;
   }
   .mb-sm-2 {
     margin-bottom: 0.5rem !important;
